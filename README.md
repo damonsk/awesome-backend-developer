@@ -5,12 +5,34 @@
 ## Contents
 
 - [Principles](#principles)
+- [Architecture Patterns](#architecture-patterns)
 
 ## Principles
 
 List of known principles applied by Backend Developers.
 
 - SOLID. A set of five principles to assist with making software more understandable, flexible and maintainable.
+- Clean Code
+- Messaging
+- Source Control
+- Object Orientation (OO)
+- ACID / Database Transactions 
+- 3x - eXplore, eXpand, eXtract
+- Pioneers, Settlers, Town Planners  
+
+## Architecture Patterns
+
+- Event Driven Architecture
+- SOA – Service Orientated Architecture
+- Onion Architecture / Ports and Adapters / Clean Architecture / Hexagonal Architecture 
+- Publish Subscribe Pattern
+- ORM - (Object Relational Mapping)
+
+## Practices
+
+- Outside In/Inside out Testing
+- Test Driven Development
+- Unit Testing
 
 ## License
 
