@@ -33,6 +33,7 @@ List of known principles applied by Backend Developers.
     - [Single Responsibility Principle](https://wiki.c2.com/?SingleResponsibilityPrinciple)
     - [Open Closed Principle](https://wiki.c2.com/?OpenClosedPrinciple)
     - [Liskov Substitution Principle](https://wiki.c2.com/?LiskovSubstitutionPrinciple)
+    - [Liskov Substitution Principle](https://wiki.c2.com/?LiskovSubstitutionPrinciple)
     - [Dependency Inversion Principle](https://wiki.c2.com/?DependencyInversionPrinciple)
 - Clean Code
 - Messaging
@@ -72,7 +73,7 @@ List of known principles applied by Backend Developers.
 - Circuit Breakers
 - Browning Out
 
-## Thought Leaders 
+## Inspirational People 
 - [Alistair Cockburn](https://twitter.com/TotherAlistair)
 - [GeePaw Hill](https://twitter.com/GeePawHill)
 - Mary Poppendieck
